@@ -47,7 +47,7 @@ python3 ta-dash.py -t AAPL -w 25 -s 2025-01-01 -e 2025-09-01
 
 ![Screenshot when the tool is ran](docs/screenshot.png)
 
-#### Sample Charts
+### Sample Charts
 
 ![Price Chart](docs/charts/PRICE.png)
 ![Simple Moving Average Chart](docs/charts/SMA.png)
