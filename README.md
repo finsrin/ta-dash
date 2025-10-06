@@ -1,10 +1,17 @@
 # TA-DASH
 
-A python based tool to generate technical analysis charts for a given ticker using data from yfinance.
+A python based tool to generate technical analysis charts and data (as csv) for a given ticker using data from yfinance.
 
 ## Disclaimer
 
 This project is developed strictly for educational purposes only and is not intended to provide any trading/investment advice. __The developer assumes no responsibility or warranty with respect to the correctness or accuracy of any output generated nor for any damages caused by its use.__. The data generated using this tool should not be relied upon to make any capital market decisions.
+
+## List of dataframes/charts that can be generated using this tool
+
+- Closing Price
+- Simple Moving Average of Closing Price
+- Bollinger Band of Closing Price
+- Relative Strength Index of Closing Price
 
 ## Setup
 
